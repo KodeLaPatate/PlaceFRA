@@ -4,17 +4,25 @@
     {
       "name": "Drapeau de Gauche",
       "sources": [
+        "https://i.imgur.com/IYwCC4H.png"
+      ],
+      "x": 0,
+      "y": 130
+    },
+    {
+      "name": "Ancien Drapeau de Gauche",
+      "sources": [
         "https://i.imgur.com/562xSZv.png"
       ],
-      "x": 499,
-      "y": 129
+      "x": 500,
+      "y": 130
     },
     {
       "name": "Drapeau de droite",
       "sources": [
         "https://i.imgur.com/hw14rKw.png"
       ],
-      "x": 1888,
+      "x": 1887,
       "y": 130
     }
   ],
